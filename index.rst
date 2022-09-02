@@ -10,6 +10,12 @@ Welcome to OpenIoTHub's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   summary/index
+   gateway/index
+   server/index
+   client/index
+   device/index
+   service/index
 
 
 Indices and tables
@@ -18,3 +24,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+test1
+======
+test2
+-------
