@@ -1,5 +1,11 @@
 总览
 =====
-测试
------
-.. seealso:: If you already have a Sphinx project, check out our :doc:`/intro/import-guide` guide.
+本软件功能
+------
+本软件提供以下功能:
+ * 智能家居设备远程控制
+ * 私有云
+ * 内网穿透
+
+本系统的架构图:
+ .. image:: ../statics/images/OpenIoTHub-architecture.png
