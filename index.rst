@@ -16,6 +16,7 @@ Welcome to OpenIoTHub's documentation!
    client/index
    device/index
    service/index
+   about/index
 
 
 Indices and tables
