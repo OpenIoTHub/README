@@ -17,16 +17,4 @@ Welcome to OpenIoTHub's documentation!
    device/index
    service/index
    about/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-test1
-======
-test2
--------
+   privacyPolicy/index
