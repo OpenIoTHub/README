@@ -11,10 +11,10 @@ Welcome to OpenIoTHub's documentation!
    :caption: Contents:
 
    summary/index
+   about/index   
    gateway/index
    server/index
    client/index
    device/index
    service/index
-   about/index
    privacyPolicy/index
