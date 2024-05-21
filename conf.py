@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'OpenIoTHub'
-copyright = '2022, Farry'
+project = '云亿连'
+copyright = '2024, Farry'
 author = 'Farry'
 
 master_doc = 'index'
