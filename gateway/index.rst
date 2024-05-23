@@ -84,7 +84,7 @@ Linux
 Ubuntu
 """""""""""""""""
 Ubuntu App store 搜索"openiothub"使用内置网关（推荐）或者搜索"gateway-go"使用命令行网关，snapcraft:
- .. image:: ../statics/images/snap-store-white.svg
+ .. image:: ../statics/images/snap-store-white.png
   :target: https://snapcraft.io/gateway-go
 
 或者 `网关releases页 <https://github.com/OpenIoTHub/gateway-go/releases>`_ 下载二进制程序
