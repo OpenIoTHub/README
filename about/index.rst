@@ -23,9 +23,17 @@
 ----------------------
 哔哩哔哩：
  .. image:: ../statics/contact/blibli.jpg
+   :align: center
+   :width: 400px
 微信公众号：
  .. image:: ../statics/contact/wechat.jpg
+   :align: center
+   :width: 400px
 抖音号：
  .. image:: ../statics/contact/douyin.jpg
+   :align: center
+   :width: 400px
 QQ群：
  .. image:: ../statics/contact/qq_group.jpg
+   :align: center
+   :width: 400px
