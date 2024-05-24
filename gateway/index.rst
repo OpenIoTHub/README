@@ -8,14 +8,14 @@
 
 编译
 ---------
-Build exe file
+编译可执行文件程序
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ::
 
     # Download golang then
     go build main.go
 
-Build dynamic/static Library
+编译动态静态库
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ::
 
@@ -131,7 +131,7 @@ $ docker run -it --net=host openiothub/gateway-go:latest -t <your Token>
 
 Note that the image will almost always have the last stable Go version.
 
-manually
+可执行文件
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Download the pre-compiled binaries from the `releases page <https://github.com/OpenIoTHub/gateway-go/releases>`_ and
 copy to the desired location.

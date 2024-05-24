@@ -14,7 +14,7 @@ Welcome to OpenIoTHub's documentation!
    about/index   
    gateway/index
    server/index
-   client/index
+   app/index
    device/index
    service/index
    privacyPolicy/index
