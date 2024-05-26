@@ -45,14 +45,40 @@ macOS版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/rele
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 使用扫码添加
 """""""""""""""""
-
+点击右上角“扫描二维码”：
+ .. image:: ../statics/app/scan.jpg
+   :align: center
+   :width: 400px
 使用局域网发现添加
 """"""""""""""""""""""""""""""
-
+点击右上角“发现局域网网关”：
+ .. image:: ../statics/app/mdns.jpg
+   :align: center
+   :width: 400px
 使用配置文件添加
 """"""""""""""""""""""""""""""
 
 添加主机端口
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+添加主机
+"""""""""""""""""
+点击右下角“+”添加远程主机：
+ .. image:: ../statics/app/add_host.jpg
+   :align: center
+   :width: 400px
 添加TCP端口
 """""""""""""""""
+点击TCP服务：
+ .. image:: ../statics/app/click_tcp.jpg
+   :align: center
+   :width: 400px
+
+点击右上角“+”添加TCP：
+ .. image:: ../statics/app/click_add_tcp.jpg
+   :align: center
+   :width: 400px
+
+配置TCP：
+ .. image:: ../statics/app/config_tcp.jpg
+   :align: center
+   :width: 400px
