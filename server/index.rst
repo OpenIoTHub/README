@@ -1,8 +1,10 @@
-服务器
-======
+服务器(可选)
+============
 总览
 ---------
 .. seealso:: https://github.com/OpenIoTHub/server-go
+
+`云亿连服务器普通用户可以不用搭建，直接使用云亿连官方提供的服务器就行`
 
 编译(可选)
 ------------------
@@ -27,7 +29,7 @@ Linux
           sudo snap install server-go
 
 配置
-使用默认生成的配置文件`server-go.yaml`再更改秘钥：
+使用默认生成的配置文件 `server-go.yaml` (/root/snap/server-go/current/server-go.yaml) 再更改秘钥：
 
 .. code-block::
 
