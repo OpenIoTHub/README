@@ -5,7 +5,7 @@
 .. seealso:: https://github.com/OpenIoTHub/server-go
 
 编译(可选)
----------
+------------------
 * 1.安装golang
 * 2.执行:
 
@@ -18,6 +18,7 @@
 下载二进制运行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. seealso:: https://github.com/OpenIoTHub/server-go/releases
+
 Linux
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 使用snap安装:
@@ -59,4 +60,3 @@ Linux
         needAuth: false
         password: ""
 
----------
