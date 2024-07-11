@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '云亿连'
-copyright = '2024, Farry'
+copyright = '2024, 合肥云亿连智能科技有限公司'
 author = 'Farry'
 
 master_doc = 'index'
