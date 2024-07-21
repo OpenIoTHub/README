@@ -17,17 +17,21 @@ For help getting started with Flutter, view our online documentation, which offe
 
 安装
 ---------
+应用市场
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+目前 **云亿连** 已经发布到了众多应用市场，包括：华为(暂未)，小米、OPPO、ViVo(暂未)、腾讯应用宝、苹果App Store（iOS和macOS版）、微软Microsoft Store(PC版/名字：openiothub)、360软件管家(PC)、腾讯电脑管家(PC)、Ubuntu Snapcraft(PC版/名字：openiothub)
+
 安卓
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-安卓版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/releases>`_ 下载，以后也将发布到各大应用市场
+安卓版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/releases>`_ 下载，也可以从华为(暂未)，小米、OPPO、ViVo(暂未)、腾讯应用宝应用市场下载
 
 iOS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-iOS可以从Apple AppStore搜索云亿连(云易连)获取App
+iOS可以从Apple AppStore搜索云亿连(云亿连)获取App
 
 Windows
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Windows版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/releases>`_ 下载，或者从Microsoft AppStore搜索“openiothub”下载App
+Windows版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/releases>`_ 下载，或者从Microsoft AppStore搜索“openiothub”下载App，也可以从360软件管家和腾讯电脑管家下载
 
 Linux
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -35,7 +39,7 @@ Linux版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/rele
 
 macOS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-macOS版可以从 `releases页面 <https://github.com/OpenIoTHub/OpenIoTHub/releases>`_ 下载，以后也将发布到Apple AppStore或者homebrew
+macOS版可以从 Apple AppStore搜索云亿连下载
 
 * 注意，可能由于签名的原因需要在 设置-隐私与安全性 中运行openiothub执行，以后将会解决
 
